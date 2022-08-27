@@ -42,8 +42,6 @@ It will be deemed successful if the Null hypothesis fails to be rejected, i.e. i
 
 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 
 ## Conclusions
 1.The month of release of a movie is very critical to its success.
